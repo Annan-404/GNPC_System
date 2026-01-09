@@ -36,5 +36,5 @@ Built as a **static single-page application** — perfect for GitHub Pages, intr
 
 Coming soon — deploy to GitHub Pages!
 
-**Demo Link:** [https://yourusername.github.io/gnpc-digital-dashboard/](https://yourusername.github.io/gnpc-digital-dashboard/)  
-*(Update this link after deployment)*
+**Demo Link:** https://annan-404.github.io/GNPC_System/
+
